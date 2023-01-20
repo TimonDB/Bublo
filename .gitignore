@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+
+FaceBase.db
+src/eyes/dataset/
+src/eyes/recognizer/trainingData.yml
+
+venv/
